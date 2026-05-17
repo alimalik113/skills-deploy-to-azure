@@ -7,10 +7,10 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace alimalik113 with GitHub username ###
+  ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: alimalik113-azure-ttt
-  AZURE_WEBAPP_NAME: alimalik113-ttt-app
+  DOCKER_IMAGE_NAME: <username>-azure-ttt
+  AZURE_WEBAPP_NAME: <username>-ttt-app
   ###############################################
 
 jobs:
